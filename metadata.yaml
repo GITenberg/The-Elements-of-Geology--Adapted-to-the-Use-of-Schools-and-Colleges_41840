@@ -1,0 +1,40 @@
+_repo: The-Elements-of-Geology--Adapted-to-the-Use-of-Schools-and-Colleges_41840
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41840-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Loomis, Justin R. (Justin Rudolph)
+    alias: Loomis, Justin Rudolph
+    birthdate: 1810
+    deathdate: 1898
+    gutenberg_agent_id: '41390'
+    url: http://www.gutenberg.org/2009/agents/41390
+description: ''
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41840'
+  lccn: '04025263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Geology'
+tableOfContents: 'Of the materials which compose the crust of the earth: Elementary
+  substances. Simple minerals. The mineral masses which form the crust of the earth
+  -- Of the arrangement of the materials which compose the crust of the earth: The
+  classification of rocks. The plutonic rocks. The volcanic rocks. The non-fossiliferous
+  stratified (or metamorphic) rocks. The fossiliferous rocks. Fossils. The time necessary
+  for the formation of the stratified rocks -- Of the changes to which the crust of
+  the earth has been subjected: Changes which have taken place at great depths below
+  the surface. Changes in the mass of the stratified rocks. Changes in elevation and
+  subsidence. Changes on the surface of the earth. Changes of climate. Advantages
+  resulting from geological changes -- Of the causes of geological phenomena: Atmospheric
+  causes. Chemical action. Organic causes. Aqueous causes. Aqueo-glacial action. Igneous
+  causes.'
+title: The Elements of Geology; Adapted to the Use of Schools and Colleges
+url: http://www.gutenberg.org/ebooks/41840
