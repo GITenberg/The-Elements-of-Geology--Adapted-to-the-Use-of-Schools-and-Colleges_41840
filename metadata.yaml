@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41390'
     url: http://www.gutenberg.org/2009/agents/41390
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41840#The-Elements-of-Geology--Adapted-to-the-Use-of-Schools-and-Colleges
 gutenberg_issued: '2013-01-13'
 gutenberg_type: Text
 identifiers:
